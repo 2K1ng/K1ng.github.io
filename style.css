@@ -1,0 +1,16 @@
+body {
+  background-color: #262525
+}
+
+* {
+ font-family: "Verdana, sans-serif" 
+}
+
+@keyframs titlehover {
+  from {
+    color: initial;
+  }
+  to {
+    color: lime;
+  }
+}
